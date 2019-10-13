@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background: lightgray;
+
+}
+.card-header{
+  margin-bottom: 10px;
+}
+
+.footer {
+  margin-top: 10px;
+  height: 30px;
+  background-color: rgb(24, 21, 21);
+  color: white;
+}
+.score {
+  color: rgb(212, 201, 209);
+}
+
